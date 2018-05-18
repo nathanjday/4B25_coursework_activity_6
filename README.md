@@ -48,4 +48,5 @@ Source code for the program designed for integration of system components, which
 NOTE OF THANKS:
 
 Thank you to the lecturer for providing a modern, interesting, and mostly enjoyable course.
+
 Slightly less thank you to the manufacturer of the FRDM-KL03Z board.
