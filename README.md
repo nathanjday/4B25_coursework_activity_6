@@ -2,13 +2,17 @@
 Nathan Day, Trinity College, nd368.
 
 SUMMARY:
+
 This folder contains the software pertaining to the pedometer developed with the FRDMKL03Z board. A clear description of files included in this folder is given below.
 
 FOREWORD ON CODE STRUCTURE:
+
 All code has been written and structured in a manner readily understood by someone familiar with the systems involved. Comments have been added where appropriate.
 
 CONTAINED FOLDERS:
+
 - srec_files
+
 Contains srec files corresponding to the source code files mentioned below.
 
 CONTAINED FILES:
@@ -42,5 +46,6 @@ Source code for the program designed for integration of system components, which
 
 
 NOTE OF THANKS:
+
 Thank you to the lecturer for providing a modern, interesting, and mostly enjoyable course.
 Slightly less thank you to the manufacturer of the FRDM-KL03Z board.
